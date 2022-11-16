@@ -1,0 +1,46 @@
+"Supplementary Table 3. List of myctophiform specimens in which the left and right olfactory organs were removed to histological analysis and scanning electron microscopy. An X indicates presence of cell type, a ? indicates possible presence of cell type, an -  indicates the olfactory organ was damaged, and an empty cell indicates type was not seen in this study but does not indicate that it is not present in the species. Abbreviations as follows: Ciliated OSN (ci), approximate average epithelial thickness (ET), microvillous OSN (mv), non-sensory ciliated cell (nsc), and crypt OSN (crypt). A + sign indicates female, a * sign indicates male.",,,,,,,,,,
+Family,Subfamily,Genus,Species,SL (mm),Museum ID,nsc,mv,ci,crypt,ET (µm)
+Neoscopelidae,,,,,,,,,,
+,Neoscopelidae,Neoscopelus,macrolepidotus,105,MCZ 28162,X,?,?,,20
+,Neoscopelidae,Scopelengys,tristis,103,MCZ 150293,X,,?,?,-
+Myctophidae,,,,,,,,,,
+,Diaphinae,Diaphus,dumerilii,53,MCZ 91530,,,,X,35
+,Diaphinae,Diaphus,phillipsi,41,LACM 31359-7,X,?,X,,50
+,Diaphinae,Diaphus,splendidus,113,KU 41715,-,-,-,-,-
+,Diaphinae,Diaphus,theta,54,CAS-SU 061412,X,,X,,30
+,Diaphinae,Idiolychnus,urolampus,85,USNM 439014,X,?,X,X,30
+,Diaphinae,Lobianchia,gemellarii,43,MCZ 106956,,X,X,,-
+,Gymnoscopelinae,Gymnoscopelus,braueri,100,MCZ 148790,X,X,X,X,25
+,Gymnoscopelinae,Hintonia,candens,95,LACM 11542-1,,-,-,-,22
+,Gymnoscopelinae,Lampanyctodes,hectoris,74,LACM 34352-01,,X,X,X,20
+,Gymnoscopelinae,Lampichthys,procerus,67,LACM 11519-20,X,X,X,X,25
+,Gymnoscopelinae,Notoscopelus,caudispinosus,62,MCZ 104104,X,X,X,?,25
+,Gymnoscopelinae,Scopelopsis,multipunctatus,56,LACM 31322-5,-,-,-,-,-
+,Lampanyctinae,Lampadena,speculigera,100,MCZ 164389,,,,,17
+,Lampanyctinae,Lampadena,urophaos,99,MCZ 114225,X,X,?,?,27
+,Lampanyctinae,Lampanyctus,macdonaldi,88,MCZ 164405,X,-,-,-,-
+,Lampanyctinae,Lepidophanes,guentheri,61,LACM 34941-2,X,,,?,40
+,Lampanyctinae,Parvilux,ingens,121,MCZ 45102,X,,?,X,35
+,Lampanyctinae,Stenobrachius,leucopsarus,72,KU 28043,X,X,,,35
+,Lampanyctinae,Taaningichthys,bathyphilus,42,MCZ 108910,-,-,-,-,-
+,Lampanyctinae,Triphoturus,mexicanus,55,KU 42028,-,-,-,-,30
+,Lampanyctinae,Triphoturus,nigriscens,33,MCZ 151585,X,X,?,,15
+,Myctophinae,Benthosema,glaciale,52,MCZ 53400,-,-,-,-,25
+,Myctophinae,Centrobranchus,nigroocellatus,33,MCZ 123098,X,X,?,,-
+,Myctophinae,Ctenoscopelus,phengodes,61,USNM 439011,,,X,,27
+,Myctophinae,Dasyscopelus,spinosus,74,MCZ 168763,-,-,-,-,35
+,Myctophinae,Diogenichthys,atlanticus,23,MCZ 55530,-,-,-,-,-
+,Myctophinae,Electrona,risso,44,MCZ 40855,X,,X,,-
+,Myctophinae,Gonichthys,cocco,58,MCZ 116656,-,-,-,-,8
+,Myctophinae,Hygophum,reinhardtii,42,MCZ 114833,X,X,X,?,17
+,Myctophinae,Krefftichthys,anderssoni,63,LACM 11177-1,,,,,30
+,Myctophinae,Loweina,interrupta +,32,LACM 11510-17,X,X,X,?,12
+,Myctophinae,Loweina,interrupta *,34,LACM 11510-17,-,-,-,-,12
+,Myctophinae,Loweina,rara +,40,MCZ 151184,,X,X,,10
+,Myctophinae,Loweina,rara *,40,MCZ 151184,-,-,-,-,10
+,Myctophinae,Metelectrona,ventralis,51,LACM 11315-12,-,-,-,-,-
+,Myctophinae,Myctophum,aurolaternatum,30,MCZ 152295,,X,X,,30
+,Myctophinae,Myctophum,nitidulum,74,MCZ 106139,X,X,X,X,17
+,Myctophinae,Protomyctophum,thompsoni,18,CAS-ICH 010051,-,-,-,-,-
+,Myctophinae,Symbolophorus,evermanni,89,MCZ 103597,,X,X,?,-
+,Myctophinae,Tarletonbeania,crenularis,64,USNM 439010,,X,X,?,37

@@ -1,0 +1,78 @@
+"Supplementary Table 2. Lanternfishes species olfactory data used in analyses pertaining to ecological and behavioral factors. Migration acronyms include: DVM, diel vertical migration where species migrate towards the surface at night; PDVM, partial diel vertical migration where only part of the population migrates or has a bimodal distribution; NoDVM, the species does not migrate; IDVM, inverse diel vertical migration where species migrate towards the surface during the day. Feeding categories include: 0, predominately zooplanktivorous with a diet composition mainly containing planktonic crustaceans including amphipods, copepods, decapods, euphausiids, and ostracods; 1, predominately zooplanktivorous but diet includes additional prey types including chaetognaths, larvaceans, molluscs, and polychaete; 2, predominately zooplanktivorous but become partially piscivorous; 3, specialize on a particular prey group (e.g., only piscivorous, only feed on pteropods). Spawning categories include: 0, restricted spawners that only spawn one to two times a year; 1, extended spawners that spawn up to four to six months a year; 2, year-round spawners that spawn throughout the year.",,,,,,,,,,,,,,
+Family,Subfamily,Species,Museum_ID,SL (mm),L.R.Lamellae,L.R.Length,ET,Sex,Migration,Migration Source,Feeding Guild,Feeding Source,Spawning,Spawning Source
+Neoscopelidae,Neoscopelidae,Neoscopelus_macrolepidotus,MCZ 28162,105,18.5,1.8669,20,,NoDVM,"Nafpaktitis, 1977",2,"Annasawmy et al., 2022",,
+Neoscopelidae,Neoscopelidae,Scopelengys_tristis,MCZ 150293,103,18,1.7272,,,NoDVM,"Nafpaktitis, 1977; Hulley 1984",,,,
+Neoscopelidae,Neoscopelidae,Solivomer_arenidens,USNM 135928,224,60,5.9436,,Male,,,,,,
+Myctophidae,Myctophinae,Benthosema_glaciale,MCZ 53400,52,11,0.9525,25,Female,IDVM,"Dypvik et al., 2012; Olivar et al., 2012",2,"Olivar et al., 2019",0,"Mazhirina, 1988"
+Myctophidae,Myctophinae,Benthosema_pterotum,MCZ 151480,34,9,0.635,,,DVM,"Dypvik and Kaartvedt, 2013",2,"Dalpadado and Gjøsæter, 1988",0,"Sassa et al., 2014"
+Myctophidae,Lampanyctinae,Bolinichthys_indicus,MCZ 124320,41,16,0.889,,,PDVM,"Gibbs and Krueger, 1987",,,1,"Gibbs and Krueger, 1987"
+Myctophidae,Lampanyctinae,Bolinichthys_longipes,AMNH 266511,40,15.5,0.9398,,Male,DVM,"Clarke,1973",0,"Kinzer et al., 1993",1,"Clarke, 1973"
+Myctophidae,Lampanyctinae,Bolinichthys_photothorax,AMNH 270155,42,17,0.9652,,Female,PDVM,"Eduardo et al., 2021",,,1,"Clarke, 1973"
+Myctophidae,Myctophinae,Centrobranchus_andreae,AMNH 261298,45,73,2.3368,,,DVM,"Wang et al., 2019",3,"Hopkins and Gartner, 1992; Watanabe et al., 2002; Van Noord, 2013",,
+Myctophidae,Myctophinae,Centrobranchus_nigroocellatus,MCZ 123098,33,60,1.6256,,,DVM,"Gibbs and Krueger, 1987",3,"Hopkins and Gartner, 1992; Watanabe et al., 2002; Van Noord, 2013",,
+Myctophidae,Lampanyctinae,Ceratoscopelus_maderensis,MCZ 100705,63,23,1.5748,,Female,DVM,"Olivar et al., 2012",1,"Bernal et al., 2015",1,"Halliday et al., 2015"
+Myctophidae,Lampanyctinae,Ceratoscopelus_townsendi,USNM 301822,46,21.5,1.125,,Female,DVM,"Paxton, 1967; Wang et al., 2019",1,"Conley and hopkins, 2004",,
+Myctophidae,Lampanyctinae,Ceratoscopelus_warmingii,KU 29922,50,24,1.2,,Female,PDVM,"Eduardo et al., 2021",2,"Takagi et al., 2009",0,"Gartner, 1993"
+Myctophidae,Myctophinae,Ctenoscopelus_phengodes,USNM 209330 ; Now USNM 439011,61,20.5,1.3081,27,Male,DVM,"Craddock and Mead, 1970",0,"Cohen, 2019",,
+Myctophidae,Myctophinae,Dasyscopelus_asper,SIO 77-219,52,23.5,1.19,,Male,PDVM,"Eduardo et al., 2021",2,"Takagi et al., 2009",0,"Sassa and Hirota, 2013"
+Myctophidae,Myctophinae,Dasyscopelus_orientalis,KU 41798,100,56,2.413,,,DVM,"Kawaguchi et al., 1972",0,"Kubota, 1982",,
+Myctophidae,Myctophinae,Dasyscopelus_spinosus,MCZ 168763,74,33,1.5875,35,Male,DVM,"Wang et al., 2019",2,"Collard, 1970",,
+Myctophidae,Diaphinae,Diaphus_anderseni,MCZ 103200,25,8,0.5334,,,DVM,"Nafpaktitis et al., 1977",,,,
+Myctophidae,Diaphinae,Diaphus_brachycephalus,AMNH 261149,50,12,0.8636,,,PDVM,"Olivar et al., 2017",2,"Olivar et al., 2019",1,"Tian et al., 2022"
+Myctophidae,Diaphinae,Diaphus_dumerilii,MCZ 91530,53,22,1.143,35,,PDVM,"Eduardo et al., 2021; Schwarzhans and Carnevale, 2021",2,"Olivar et al., 2019",0,"Gartner, 1993"
+Myctophidae,Diaphinae,Diaphus_effulgens,MCZ 110019,53,19,1.016,,,PDVM,"Bernal et al., 2019",2,"Pakhomov et al., 1996",,
+Myctophidae,Diaphinae,Diaphus_fragilis,KU 29915,44,19,0.825,,Male,PDVM,"Eduardo et al., 2021",0,"Clarke, 1980",,
+Myctophidae,Diaphinae,Diaphus_garmani,MCZ 90863,49,26,1.016,,,DVM,"Eduardo et al., 2021",2,"Tanaka et al., 2013",1,"Sassa et al., 2016"
+Myctophidae,Diaphinae,Diaphus_metopoclampus,MCZ 119993,68,22,1.3462,,,NoDVM,"Hulley, 1984",2,"Battaglia et al., 2014",,
+Myctophidae,Diaphinae,Diaphus_mollis,MCZ 119262,48,13,0.9652,,,PDVM,"Eduardo et al., 2021",2,"Olivar et al., 2019",,
+Myctophidae,Diaphinae,Diaphus_parri,AMNH 266575,23,10,0.508,,,DVM,"Wang et al., 2019",,,,
+Myctophidae,Diaphinae,Diaphus_perspicillatus,MCZ 126693,43,19,0.9144,,,PDVM,"Eduardo et al., 2021",1,"Clarke, 1980",,
+Myctophidae,Diaphinae,Diaphus_phillipsi,LACM 31359-7,41,14,0.8382,50,Male,DVM,"Wang et al., 2019",,,,
+Myctophidae,Diaphinae,Diaphus_rafinesquei,MCZ 118953,67,15,1.1938,,,PDVM,"Olivar et al., 2017",2,"Olivar et al., 2019",,
+Myctophidae,Diaphinae,Diaphus_regani,MCZ 90115,60,22,1.0414,,,DVM,"Wang et al., 2019",2,"Legand et al., 1972",,
+Myctophidae,Diaphinae,Diaphus_theta,CAS-SU 061412,54,16,1.2446,30,Female,PDVM,"Paxton, 1967; Willis and Pearcy, 1980",1,"Tyler and Pearcy, 1975",0,"Moku et al., 2003"
+Myctophidae,Diaphinae,Diaphus_thiollierei,AMNH 266590,25,10.5,0.5207,,,PDVM,"Kinzer et al., 1993",2,"Kinzer et al., 1993",,
+Myctophidae,Myctophinae,Diogenichthys_atlanticus,MCZ 55530,23,10,0.508,,Female,DVM,"Paxton, 1967",1,"Oliva et al., 2006",2,"Sassa and Hirota, 2013"
+Myctophidae,Myctophinae,Electrona_antarctica,MCZ 149056,78,24,2.032,,,NoDVM,"Moteki et al., 2009",1,"Gaskett et al., 2001; Pusch et al., 2004",0,"Sabourenkov, 1991"
+Myctophidae,Myctophinae,Electrona_risso,MCZ 40855,44,12.5,1.016,,Female,NoDVM,"Eduardo et al., 2021",3,"Battaglia et al., 2016",0,"Wieben, 2015"
+Myctophidae,Myctophinae,Gonichthys_cocco,MCZ 116656,58,46,1.524,8,Female,DVM,"Gartner et al., 1987",,,,
+Myctophidae,Myctophinae,Gonichthys_tenuiculus,AMNH 1915,39,37,1.0922,,,DVM,"Van Noord et al., 2013",1,"Van Noord et al., 2013",,
+Myctophidae,Gymnoscopelinae,Gymnoscopelus_braueri,MCZ 148790,100,22,1.905,25,Female,PDVM,"Saunders et al., 2015",0,"Gaskett et al., 2001",0,"Saunders et al., 2020"
+Myctophidae,Gymnoscopelinae,Hintonia_candens,LACM 11542-1,95,36,2.4511,22,Female,DVM,"Wisner, 1976",,,,
+Myctophidae,Myctophinae,Hygophum_hygomi,AMNH 24364,57,19,1.2827,,Female,DVM,"Olivar et al., 2012",0,"Pakhomov et al., 1996",,
+Myctophidae,Myctophinae,Hygophum_proximum,AMNH 270882,40,13,0.8382,,Male,DVM,"Wang et al., 2019",0,"Kinzer et al., 1993",,
+Myctophidae,Myctophinae,Hygophum_reinhardtii,MCZ 114833,42,15,0.889,17,Male,DVM,"Wang et al., 2019",0,"Gorelova, 1984",,
+Myctophidae,Diaphinae,Idiolychnus_urolampus,From USNM 417740; Now (USNM 439014),85,36,1.84,30,Male,NoDVM,"Nafpaktitis and Paxton, 1978",,,,
+Myctophidae,Myctophinae,Krefftichthys_anderssoni,LACM 11177-1,63,11,1.143,30,Female,DVM,"Piatkowski et al., 1994; Collins et al., 2008; Lourenço et al., 2016",0,"Gaskett et al., 2001",0,"Sabourenkov, 1991"
+Myctophidae,Lampanyctinae,Lampadena_luminosa,USNM 417963,44,24,1.3335,,,DVM,"Eduardo et al., 2021",,,1,"Sassa and Hirota, 2013"
+Myctophidae,Lampanyctinae,Lampadena_speculigera,MCZ 164146,120,20.5,2.159,17,,PDVM,"Gibbs and Krueger, 1987",,,,
+Myctophidae,Lampanyctinae,Lampadena_urophaos,AMNH 270226,35,17,0.9398,27,,DVM,"Paxton, 1967",,,,
+Myctophidae,Gymnoscopelinae,Lampanyctodes_hectoris,LACM 34352-1,43,17,1.025,20,Female,DVM,"Hulley and Prosch, 1987",0,"Tyler, 2016",0,"Young et al., 1987"
+Myctophidae,Lampanyctinae,Lampanyctus_lineatus,MCZ 159035,60,18,1.27,,,DVm,"Gibbs and Krueger, 1987",,,,
+Myctophidae,Lampanyctinae,Lampanyctus_macdonaldi,MCZ 164405,88,19,1.5748,,Female,NoDVM,"Nafpaktitis et al., 1977; Wisner, 1976",,,1,"Kawaguchi and Mauchline, 1982"
+Myctophidae,Lampanyctinae,Lampanyctus_vadulus,MCZ 110183,68,25,1.4224,,,DVM,"Olivar et al., 2017",,,,
+Myctophidae,Gymnoscopelinae,Lampichthys_procerus,LACM 11519-20,67,19.5,1.1049,25,Male,DVM,"Flynn and Kloser, 2012",,,,
+Myctophidae,Lampanyctinae,Lepidophanes_guentheri,LACM 34941-2,61,21,1.2065,40,Female,PDVM,"Eduardo et al., 2021",2,"Olivar et al., 2019",1,"Gartner, 1993"
+Myctophidae,Diaphinae,Lobianchia_gemellarii,MCZ 106956,43,27,1.143,,Female,PDVM,"Cocco, 1838",,,,
+Myctophidae,Myctophinae,Loweina_interrupta,LACM 11510-17,32,18,1.2065,12,Male,DVM,"Nafpaktitis et al., 1977",,,,
+Myctophidae,Myctophinae,Loweina_rara,MCZ 151184,40,36,1.2192,10,Male,PDVM,"Gibbs and Krueger, 1987",,,,
+Myctophidae,Myctophinae,Metelectrona_ventralis,LACM 11315-12,51,14,1.143,,,DVM,"Flynn and Kloser, 2012",,,,
+Myctophidae,Myctophinae,Myctophum_aurolaternatum,KU 36163,117,19,1.44,30,Male,DVM,"Wang et al., 2019",0,"Van Noord, 2013",,
+Myctophidae,Myctophinae,Myctophum_nitidulum,MCZ 106139,74,27,1.397,17,Male,DVM,"Wang et al., 2019; Olivar et al., 2017",2,"Olivar et al., 2019",,
+Myctophidae,Myctophinae,Myctophum_punctatum,AMNH 75750,52,18,1.016,,Female,DVM,"Di Carlo et al., 1982",2,"Olivar et al., 2019",,
+Myctophidae,Notolychninae,Notolychnus_valdiviae,AMNH 270222,20,5,0.381,,,PDVM,"Olivar et al., 2017",0,"Clarke, 1980",1,"Gartner, 1993"
+Myctophidae,Gymnoscopelinae,Notoscopelus_caudispinosus,MCZ 104104,62,20.5,1.0541,25,Male,DVM,"Gibbs and Krueger, 1987",,,,
+Myctophidae,Gymnoscopelinae,Notoscopelus_elongatus,MCZ 104150,73,26,1.2192,,,PDVM,"Olivar et al., 2012",0,"Bernal et al., 2013b",,
+Myctophidae,Gymnoscopelinae,Notoscopelus_resplendens,AMNH 29529,54,18.5,0.9398,,Male,DVM,"Wang et al., 2019",0,"Pakhomov et al., 1996",1,"Sarmiento-Lezcano et al., 2020"
+Myctophidae,Lampanyctinae,Parvilux_ingens,MCZ 45102,121,16,2.0447,35,,DVM,"Paxton, 1967",0,"Collard, 1970",,
+Myctophidae,Myctophinae,Protomyctophum_arcticum,AMNH 215743,40,10,0.762,,Female,PDVM,"Hudson et al., 2014",0,"Hudson et al., 2014",1,"Kawaguchi and Mauchline, 1982"
+Myctophidae,Myctophinae,Protomyctophum_thompsoni,CAS-ICH 010051,18,7,0.3556,,,NoDVM,"Watanabe et al., 1999",0,"Sassa and Kawaguchi, 2005",,
+Myctophidae,Gymnoscopelinae,Scopelopsis_multipunctatus,LACM 31322-5,56,20,0.9652,,Male,DVM,"Wisner, 1976",0,"Pakhomov et al., 1996",0,"Legand and Rivaton, 1967"
+Myctophidae,Lampanyctinae,Stenobrachius_leucopsarus,KU 28043,72,22,1.1,35,Male,PDVM,"Paxton, 1967; Pearcy et al., 1979",2,"Tyler and Pearcy, 1975",1,"Childress et al., 1980"
+Myctophidae,Myctophinae,Symbolophorus_californiensis,AMNH 277136,45,15.5,1.0033,,Male,DVM,"Paxton, 1967",0,"Collard, 1970; Takagi et al., 2009",0,"Sassa and Takasuka, 2019"
+Myctophidae,Myctophinae,Symbolophorus_evermanni,MCZ 103597,89,21.5,1.5621,,Female,DVM,"Wang et al., 2019",0,"Van Noord, 2013",0,"Sassa and Hirota, 2013"
+Myctophidae,Myctophinae,Symbolophorus_rufinus,MCZ 103536,70,23,1.27,,Male,PDVM,"Nafpaktitis et al., 1977",,,,
+Myctophidae,Lampanyctinae,Taaningichthys_bathyphilus,MCZ 108910,42,8,0.5715,,,NoDVM,"Hulley, 1984; Olivar et al., 2017",,,,
+Myctophidae,Myctophinae,Tarletonbeania_crenularis,USNM 196584; Now USNM 439010,64,23,1.4,37,Female,PDVM,"Paxton, 1967; Willis and Pearcy, 1980",0,"Tyler and Pearcy, 1975",2,"Bystydzieńska et al., 2010"
+Myctophidae,Lampanyctinae,Triphoturus_mexicanus,KU 42028,60,14.5,1.1557,30,Female,PDVM,"Paxton, 1967",1,"Oliva et al., 2006",,
+Myctophidae,Lampanyctinae,Triphoturus_nigriscens,MCZ 151585,33,10,0.635,15,,PDVM,"Nafpaktitis et al., 1977",,,,
